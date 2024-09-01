@@ -1,7 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-Essentials/main/Imagens/capa-reposit%C3%B3rio.jpg" width="1000"/>   ...
 <h1>
     <a href="">
-     <img align="center" width="60px" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-Essentials/main/Imagens/%C3%ADcone-t%C3%ADtulo.jpg"></a>
+     <img align="center" width="60px" src="https://raw.githubusercontent.com/carlossilvacosta/Microsoft-Azure-Essentials/main/Imagens/logo-bootcamp.jpg"></a>
     <span> Microsoft Azure Essentials </span>
 </h1>
 
